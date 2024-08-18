@@ -1,5 +1,5 @@
 function Home() {
-    return   <h1>Página inicial. testar com um novo commit</h1>
+    return <h1>Página inicial. Nao funcionou o CSS</h1>
 }
 
 export default Home;
