@@ -1,5 +1,5 @@
 function Home() {
-    return   <h1>Página inicial. Modified for tests.</h1>
+    return   <h1>Página inicial. Testando com ammend.</h1>
 }
 
 export default Home;
